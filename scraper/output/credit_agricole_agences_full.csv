@@ -1,0 +1,2690 @@
+﻿nom,adresse,code_postal,telephone,latitude,longitude,region_url,city_url,source_url,ville
+Avignon Amandier,168 Avenue Pierre Semard 84000 Avignon,84000,,43.9273222,4.842463199999997,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,Avignon 84000.html
+Avignon Les Halles,50 Rue de la Bonneterie 84000 Avignon,84000,,43.9471664,4.80975520000004,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,Avignon 84000.html
+Avignon République,43 Cours Jean Jaurès 84000 Avignon,84000,,43.9441828,4.8058594,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,Avignon 84000.html
+Banque Privée Avignon,L'Amandier - 168 avenue Pierre Sémard 84000 Avignon,84000,,43.927236,4.842679,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,Avignon 84000.html
+Centre d'Affaires Entreprises Avignon,168 Avenue Pierre Semard 84000 Avignon,84000,,43.9273222,4.8424632,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,Avignon 84000.html
+Centre d'Affaires Professionnels Avignon,L'Amandier - 168 avenue Pierre Sémard 84000 Avignon,84000,,43.921205,4.860224,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,Avignon 84000.html
+Montfavet,36 Cours Cardinal Bertrand de Montfavet 84140 Avignon,84140,,43.9355927,4.871893699999987,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,Avignon 84000.html
+"Aucun
+												résultat",,,,,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/avignon-84000.html,Avignon 84000.html
+Agence bancaire Bedarrides,,,Appeler04 84 63 84 24,CHATEAUNEUF.DU.PAPE@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/bedarrides-84370.html,Bedarrides 84370.html
+Agence bancaire Ventoux Sud,,,Appeler04 84 68 84 20,SAULT@CA-ALPESPROVENCE.FR,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/bedoin-84410.html,Bedoin 84410.html
+Agence bancaire Berre,,,Appeler04 84 66 84 02,berre@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/berre-l-etang-13130.html,Berre L Etang 13130.html
+Agence bancaire Bollène,,,Appeler04 84 68 84 23,bollene@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/bollene-84500.html,Bollene 84500.html
+Agence bancaire Bouc Bel Air,,,,BOUCBELAIR@CA-ALPESPROVENCE.FR,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/bouc-bel-air-13320.html,Bouc Bel Air 13320.html
+Agence bancaire Briançon Sainte Catherine,,,Appeler04 84 65 84 05,briancon@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/briancon-05101.html,Briancon 05101.html
+Agence bancaire Calas,,,Appeler04 84 66 84 19,calas@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/cabries-13480.html,Cabries 13480.html
+Agence bancaire Cadenet,,,Appeler04 84 69 84 03,cadenet@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/cadenet-84160.html,Cadenet 84160.html
+Agence bancaire Camaret-sur-Aigues,,,Appeler04 84 68 84 29,CAMARET@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/camaret-sur-aigues-84850.html,Camaret Sur Aigues 84850.html
+Agence bancaire Carpentras Jaurès,,,Appeler04 84 68 84 08,CARPENTRAS@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/carpentras-84200.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/carpentras-jaures-1812.html,Carpentras 84200.html
+Agence bancaire Carpentras Leclerc,,,Appeler04 84 68 84 09,CARPENTRASLECLERC@CA-ALPESPROVENCE.FR,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/carpentras-84200.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/carpentras-leclerc-1813.html,Carpentras 84200.html
+Agence bancaire Carry le Rouet,,,Appeler04 84 66 84 24,CARRYLEROUET@CA-ALPESPROVENCE.FR,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/carry-le-rouet-13620.html,Carry Le Rouet 13620.html
+Agence bancaire Cassis,,,Appeler04 84 62 84 02,cassis@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/cassis-13260.html,Cassis 13260.html
+Agence bancaire Caumont,,,Appeler04 84 63 84 26,CAUMONT@CA-ALPESPROVENCE.FR,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/caumont-sur-durance-84510.html,Caumont Sur Durance 84510.html
+Agence bancaire Cavaillon Joffre,,,Appeler04 84 64 84 02,CAVAILLON@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/cavaillon-84300.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/cavaillon-joffre-1752.html,Cavaillon 84300.html
+Agence bancaire Centre d'Affaires Agri Viti Cavaillon,,,,cafagriviti.cavaillon@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/cavaillon-84300.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/centre-d-affaires-agri-viti-cavaillon-9022.html,Cavaillon 84300.html
+Agence bancaire Centre d'Affaires Professionnels Cavaillon,,,Appeler04 32 40 75 52,cafpro.cavaillon@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/cavaillon-84300.html,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/centre-d-affaires-professionnels-cavaillon-2195.html,Cavaillon 84300.html
+Agence bancaire Château Ville Vieille,,,Appeler04 84 65 84 19,chateauvillevieille@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/chateau-ville-vieille-05350.html,Chateau Ville Vieille 05350.html
+Agence bancaire Châteauneuf du Pape,,,Appeler04 84 63 84 19,CHATEAUNEUF.DU.PAPE@ca-alpesprovence.fr,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/chateauneuf-du-pape-84230.html,Chateauneuf Du Pape 84230.html
+Agence bancaire Châteauneuf-les-Martigues,,,Appeler04 84 66 84 07,CHATEAUNEUFLESMARTIGUES@CA-ALPESPROVENCE.FR,Fermer le bandeau du message d'alerte,"<div class=""npc-bouton-vert--header"">
+		<span class=""npc-bv-h--title""data-content=""title""></span>
+	</div>
+	<div class=""restitutionAgences npc-GreenBtn-contentInfo--fsMB npc-GreenBtn-contentInfo--aLNpl npc-GreenBtn-contentBlockItem--noPad"">Merci de sélectionner l'agence à laquelle vous souhaitez vous adresser.</div>
+	<a href=""#"" class=""StoreLocatorCard-headLink StoreLocatorCard-headLink--mobile js-filter"">Filtrer</a>
+      <div class=""restitutionAgences npc-GreenBtn-contentBlockItem--noPad npc-GreenBtn-contentBlockItem--brandContact"">
+         <div class=""StoreLocatorMap-head"">
+            <p class=""npc-StoreLocatorMap-near"">
+               <span class=""js-StoreLocatorMap-near"">0 agence</span> à proximité
+            </p>
+			
+            <button class=""npc-msl-link npc-link-custom npc-link-bv-custom js-StoreLocatorCard-headLink--redirect npc-GreenBtn-contentBlockItemBackLink"" id=""voirPlusAgences"" href=""#"">
+               <span>Voir plus <span class=""hidden-xs hidden-sm""> d'agences</span></span>
+            </button>
+         </div>
+         <div class=""npc-StoreLocatorMap-Filters js-StoreLocatorMap-Filters"">
+            <div class=""StoreLocatorMap-Filter"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""filter-open--monday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""filter-open--saturday-bv"" data-filter=""openings"">
+                     <label class=""checkbox-label"" for=""filter-open--saturday-bv"">Ouvert le
+                     samedi</label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep   hidden""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""desk"" class=""checkbox-input"" id=""filter-office--ca"" data-filter=""service"">
+                     <label class=""checkbox-label"" for=""filter-office--ca"">
+                     Guichets et distributeurs Crédit%20Agricole
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--sep""></div>
+            <div class=""StoreLocatorMap-Filter hidden"">
+               <div class=""form-group"">
+                  <div class=""checkbox"">
+                     <input type=""checkbox"" value=""appointement"" class=""checkbox-input"" id=""filter-appointement"" data-filter=""attribute"">
+                     <label class=""checkbox-label"" for=""filter-appointement"">
+                     Prise de rendez-vous
+                     </label>
+                  </div>
+               </div>
+            </div>
+            <div class=""StoreLocatorMap-Filter StoreLocatorMap-Filter--noSep"">
+               	<div class=""form-group  "">
+					<select id=""select-type-agence-bv"" class=""selectpicker show-menu-arrow bootstrap-select--default"" data-size=""dataSize"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+					<option value="""">Type d'agence</option>
+					<option id=""option-generalPublic"" value=""generalPublic"" data-class=""isNotPublic"">Agences grand Public</option>
+					<option id=""option-privateBanking"" value=""privateBanking"" data-class=""isNotPrivateBanking"">Banques Privées</option>
+					<option id=""option-enterprise"" value=""enterprise"" data-class=""isNotEnterprise"">Centres d'affaires et  Agences Entreprises</option>
+					<option id=""option-pro_farmer_association"" value=""pro_farmer_association"" data-class=""isNotProFarmAssoc"">Agences pros, agris, associations</option>
+					<option id=""option-publicCollectivity"" value=""publicCollectivity"" data-class=""isNotPublicCollectivity"">Agences collectivités publiques</option>
+					</select>
+				</div>
+            </div>
+         </div>
+         <div class=""StoreLocatorMap-content js-StoreLocatorMap-content"">
+            <div id=""store-locator-map-agencies-list"" name=""store-locator-map-agencies-list"" role=""tabpanel"" class=""StoreLocatorMap-Agencies js-StoreLocatorMap-Agencies"">
+               <ul class=""bv-storelocator-agency-list StoreLocatorMap-AgenciesList"">
+               </ul>
+            </div>
+            <div id=""store-locator-map-agencies-map"" aria-label=""carte geolocalisation Google Maps non accessible"" name=""store-locator-map-agencies-map"" role=""tabpanel"" class=""StoreLocatorMap-Map js-StoreLocatorMap-Map"" style=""max-height: 800px;"">
+               <div aria-hidden=""true"" class=""StoreLocatorMap-GMap js-StoreLocatorMap-GMap""></div>
+            </div>
+         </div>
+      </div>
+      <div class=""restitutionAgences StoreLocatorMap-Toggles"" aria-label=""Sélectionnez le format d’affichage"" role=""tablist"">
+         <button role=""tab"" aria-label=""carte géographique des agences"" aria-selected=""false"" aria-controls=""store-locator-map-agencies-map"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle"" data-target=""js-StoreLocatorMap-Map"" id=""mapAgency"">
+            Carte
+         </button>
+         <button role=""tab"" aria-label=""liste des agences"" aria-selected=""true"" aria-controls=""store-locator-map-agencies-list"" class=""StoreLocatorMap-Toggle js-StoreLocatorToggle active"" data-target=""js-StoreLocatorMap-Agencies"" id=""listAgency"">
+            Liste
+         </button>
+      </div>
+   </div>
+
+
+     <!-- MODAL -->
+  <div id=""FilterModal-Bv"" class=""modal fade Modal filterModal--filteronly js-FilterModal"" role=""dialog"">
+    <div class=""Modal-dialog"">
+      <div class=""Modal-content"">
+        <div class=""Modal-header"">
+          <button type=""button"" class=""Modal-close"" data-dismiss=""modal"" aria-label=""Close""></button>
+        </div>
+  
+        <div class=""Modal-body"">
+          <p class=""Modal-mainTitle"">Filtrer</p>
+  
+          <div class=""FilterModal-Content"">
+            <div class=""FilterModal-Filters toggle-open js-FilterModal-Filters"">
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group"">
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""monday"" class=""checkbox-input"" id=""m-filter-open--monday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--monday-bv"">Ouvert le lundi</label>
+                  </div>
+                  <div class=""checkbox"">
+                    <input type=""checkbox"" value=""saturday"" class=""checkbox-input"" id=""m-filter-open--saturday-bv"" data-filter=""openings"">
+                    <label class=""checkbox-label"" for=""m-filter-open--saturday-bv"">Ouvert le
+                      samedi</label>
+                  </div>
+                </div>
+              </div>
+              <div class=""FilterModal-Filter"">
+                <div class=""form-group "">
+          <select class=""selectpicker show-menu-arrow bootstrap-select--default"" data-filter=""type"" data-dropdown-align-right=""true"" data-dropup-auto=""false"">
+            <option value="""">Type d'agence</option>
+            <option value=""generalPublic"">Agences grand Public</option>
+            <option value=""privateBanking"">Banques Privées</option>
+            <option value=""enterprise"">Centres d'affaires et  Agences Entreprises</option>
+            <option value=""pro_farmer_association"">Agences pros, agris, associations</option>
+            <option value=""publicCollectivity"">Agences collectivités publiques</option>
+          </select>
+                </div>
+                <div class=""FilterModal-Actions"">
+                  <a href=""#"" class=""FormActions-btn js-FilterModal-reset"">Effacer</a>
+                  <button class=""FormActions-btn FormActions-btn--submit js-FilterModal-apply"">Appliquer</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>",,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence.html,,https://www.credit-agricole.fr/professionnel/agence/alpes-provence/ville/chateauneuf-les-martigues-13220.html,Chateauneuf Les Martigues 13220.html
